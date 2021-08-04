@@ -1,5 +1,5 @@
 # cadastroDeUsuarios
 
 Sistema simples de cadastro de usuários no banco de dados.
-<hr>
+<br>
 PHP, SQL.
